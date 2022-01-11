@@ -1,2 +1,4 @@
 to create a bug file
 performing rebase operation
+by performing rebase operation
+
